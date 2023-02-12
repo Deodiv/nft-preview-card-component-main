@@ -1,4 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
 body {
+    max-width: 360px;
     background: hsl(217, 54%, 11%);
 }
 
